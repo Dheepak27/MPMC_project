@@ -1,0 +1,2 @@
+0 CRIME
+1 NORMAL
